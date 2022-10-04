@@ -1,8 +1,8 @@
 const firstName = "Guillaume";
-const hello = "Hello World ";
+const hello = "Hello World";
 
 const helloWorld = () => {
-    alert(hello + firstName); 
+    alert(`${hello} ${firstName}`); 
 }
 
 helloWorld();
