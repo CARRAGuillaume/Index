@@ -1,8 +1,9 @@
-const name = "Guillaume";
-const hello = 'Hello World '
+const firstName = "Guillaume";
+const hello = "Hello World";
 
 const helloWorld = () => {
-    alert(hello + name); 
+    alert(hello + firstName); 
 }
 
 helloWorld();
+
